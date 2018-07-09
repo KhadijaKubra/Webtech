@@ -1,0 +1,38 @@
+.tables
+{ width:1200px;
+  height:1200px;
+  
+
+}
+.table1
+{
+	width:600px;
+	height:1000px
+	
+}
+.table2
+{
+	width:600px;
+	height:1000px;
+	
+}
+.selections{
+	width:175px
+	;
+}
+.selections_star{
+	width:175px
+	;
+}
+.cm, .inch
+{
+	width:30px;
+
+}
+.Buttons{
+	margin-top:50px;
+}
+.error{
+	color: red;
+	font-size: 13px;
+}
